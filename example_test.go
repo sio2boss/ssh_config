@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/kevinburke/ssh_config"
+	"github.com/sio2boss/ssh_config"
 )
 
 func ExampleHost_Matches() {
